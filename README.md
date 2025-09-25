@@ -29,17 +29,22 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 - Collect Images
-  - python collect_img.py
-
+```bash
+python collect_img.py
+```
 - Create Dataset
-  - python create_dataset.py
-
+```bash
+python create_dataset.py
+```
 - Train Classifier
-  - python train_classifier.py
+```bash
+python train_classifier.py
+```
 
 - Run Live Prediction
-  - python interference_classifier.py
-
+```bash
+python interference_classifier.py
+```
 ## 📊 Tech Stack
 - Python 3.11
 - OpenCV
