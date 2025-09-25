@@ -10,14 +10,14 @@ A Machine Learning project that detects and classifies hand signs (A–Z) using 
 - Hand sign prediction in live video
 
 ## 📂 Project Structure
-📦HandSignDetection
-┣ 📜collect_img.py # Capture hand sign images
-┣ 📜create_dataset.py # Preprocess dataset
-┣ 📜train_classifier.py # Train ML classifier
-┣ 📜interference_classifier.py # Run predictions
-┣ 📜verify_ds.py # Dataset verification
-┣ 📜requirements.txt # Dependencies
-┗ 📜README.md # Documentation
+📦HandSignDetection  
+┣ 📜collect_img.py # Capture hand sign images  
+┣ 📜create_dataset.py # Preprocess dataset  
+┣ 📜train_classifier.py # Train ML classifier  
+┣ 📜interference_classifier.py # Run predictions  
+┣ 📜verify_ds.py # Dataset verification  
+┣ 📜requirements.txt # Dependencies  
+┗ 📜README.md # Documentation  
 
 
 ## ⚙️ Installation
