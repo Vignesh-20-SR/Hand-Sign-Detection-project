@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environments
+venv/
+
+# Ignore unwanted folder
+hsd/
+
+# Ignore dataset folders (can regenerate)
+data/
+data_3/
+
+# Ignore trained files (optional)
+data.pickle
+model.p

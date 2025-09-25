@@ -1,0 +1,5 @@
+mediapipe (Mediapipe supports Python 3.7 – 3.10 only.)
+opencv-python
+scikit-learn
+matplotlib
+numpy
